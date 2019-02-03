@@ -1,3 +1,4 @@
+# this is all taken from https://github.com/stedolan/jq/issues/1475
 # Emit a stream of the distinct items in the stream
 # (avoid tojson)
 def distinct(stream):
